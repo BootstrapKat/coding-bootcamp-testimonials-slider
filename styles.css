@@ -139,10 +139,11 @@ main {
     }
 
     .button-wrap {
-        right: 39%
+        right: 0%;
+        position: relative;
     }
 
     .button-container {
-        top: -55%;
+        top: -58%;
     }
 }
